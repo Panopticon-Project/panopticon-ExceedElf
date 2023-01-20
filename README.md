@@ -3,3 +3,5 @@
 https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html
 
 https://www.mandiant.com/resources/blog/seo-poisoning-batloader-atera
+
+https://www.trendmicro.com/en_us/research/23/a/batloader-malware-abuses-legitimate-tools-uses-obfuscated-javasc.html
